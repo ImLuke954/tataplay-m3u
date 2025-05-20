@@ -34,7 +34,7 @@
 
 ## How to Login:
 
-- Open the Login page<br>(port `80` for XAMPP): [http://localhost:8000/tataplay/login.php](http://localhost:8000/tataplay/login.php)
+- Open the Login page<br>(port `80` for XAMPP): [http://localhost:80/tataplay/login.php](http://localhost:8000/tataplay/login.php)
 - Login with TATAPLAY subscriber ID and enter the OTP received on RMN.
 > **Note:** The account you use must be **Active Account**.
 
